@@ -69,7 +69,7 @@ export const ChatbarSettings = () => {
       <SidebarButton
         text={'查询余额'}
         icon={<IconKey size={18} />}
-        onClick={() => window.open('#')}
+        onClick={() => window.open('https://key.0x7f.cn/')}
       />
       {/* {!serverSidePluginKeysSet ? <PluginKeys /> : null} */}
     </div>
