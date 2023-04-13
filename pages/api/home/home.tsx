@@ -352,7 +352,7 @@ const Home = ({
       }}
     >
       <Head>
-        <title>Chatbot UI</title>
+        <title>ChatGPT 镜像站</title>
         <meta name="description" content="ChatGPT but better." />
         <meta
           name="viewport"
